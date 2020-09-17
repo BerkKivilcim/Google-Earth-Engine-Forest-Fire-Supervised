@@ -82,7 +82,7 @@ load the script code into it.
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/makereposi.jpg" width="60%">
 
 * Write your repository name and create. It will Show up in Owner section.
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/newrepo.jpg" width="60%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/newrepo.jpg" width="20%">
 
 * Then click to save it in your repository. You can use the code in this repository anytime you want.
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/save.jpg" width="60%">
