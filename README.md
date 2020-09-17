@@ -138,3 +138,7 @@ Just replace those coordinates with which coordinates you want to use. You can a
 * **Tip - 1: If your "var End" date is to close to present day you should change the "var END's" 50. This 50 means 50 days later from the "var End's" so sometimes it exceed the present day.**
 
 * **Tip - 2: Trees will show different health situation with different seasons and also some exterior parameters like snow can effect the results. For example; you think the fire starts at july. Then select your time interval between june and August not like the January to December. In conclusion if Start and End dates close to burn date results will be more correct.**
+
+---
+
+### 2.5 Training Sample Selection:
