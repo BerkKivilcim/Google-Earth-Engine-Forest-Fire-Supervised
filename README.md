@@ -77,4 +77,15 @@ Open and see the source code with the help of notepad softwares and copy paste t
 
 If you wanted to save your code into your Google Earth Engine account create a repository and
 load the script code into it.
-Click NEW, then click Repository:
+
+* Click NEW, then click Repository:
+
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/makereposi.jpg "Logo Title Text 4")
+
+* Write your repository name and create. It will Show up in Owner section.
+
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/newrepo.jpg "Logo Title Text 5")
+
+* Then click to save it in your repository. You can use the code in this repository anytime you want.
+
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/save.jpg "Logo Title Text 6")
