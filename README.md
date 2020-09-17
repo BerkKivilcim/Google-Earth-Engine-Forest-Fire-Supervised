@@ -166,3 +166,12 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/sample.jpg" width="100%">
 
+* If you want to add more classes than default there would be an extra step. Create your class and determine properties then in the code add .merge('your_new_class') to "var feature".
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/kodta%20ekleme.jpg" width="100%">
+
+* Also change classified picture's map.addLayer's max:___ to how many classes you want. In the beginning we have 3 classes so max: would be 3. We should change it.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/kod2.jpg" width="100%">
+
+---
