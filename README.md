@@ -53,11 +53,11 @@ Burn Severity Rate, time interval of the burning and shows before-after satellit
 
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 2")
 
-**Script Area:** The area is where we put our code.
+* **Script Area:** The area is where we put our code.
 
-**Console Area:** The area is where graphical and numerical results displayed.
+* **Console Area:** The area is where graphical and numerical results displayed.
 
-**Map Area:** The area is where results of visualization displayed.
+* **Map Area:** The area is where results of visualization displayed.
 
 ---
 
@@ -72,3 +72,9 @@ Open and see the source code with the help of notepad softwares and copy paste t
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/b%C3%BCy%C3%BCknotepad.jpg "Logo Title Text 3")
 
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/yap%C4%B1%C5%9Ft%C4%B1r%C4%B1lcak%20yer%20b%C3%BCy%C3%BCk.jpg "Logo Title Text 4")
+
+### 2.2 Saving Code:
+
+If you wanted to save your code into your Google Earth Engine account create a repository and
+load the script code into it.
+Click NEW, then click Repository:
