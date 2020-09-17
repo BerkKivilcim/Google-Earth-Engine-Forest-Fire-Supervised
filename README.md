@@ -97,6 +97,8 @@
 
 * There are two different methods to identify polygons in other name areas.
 
+* As default an example area sample identified which is cover to Izmir/Karabaglar region.
+
 * **First method:** If you estimate or know the corner coordinates of the polygon which is you want to work it can be directly input by manually.
 
 Just replace those coordinates with which coordinates you want to use. You can add or remove more polygon corner. **Those coordinates must be in Geodetic Coordinate format (latitude and longtitude) which is based on WGS84 Ellipsoid .**
