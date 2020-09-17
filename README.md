@@ -99,16 +99,16 @@
 
 * **First method:** If you estimate or know the corner coordinates of the polygon which is you want to work it can be directly input by manually.
 
-* Just replace those coordinates with which coordinates you want to use. You can add or remove more polygon corner. **Those coordinates must be in Geodetic Coordinate format (latitude and longtitude) which is based on WGS84 Ellipsoid .**
+Just replace those coordinates with which coordinates you want to use. You can add or remove more polygon corner. **Those coordinates must be in Geodetic Coordinate format (latitude and longtitude) which is based on WGS84 Ellipsoid .**
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/koordinat.jpg" width="60%">
 
 * **Second Method:** If you want to select your area manually follow the steps below here.
 
-* **Step - 1:** Click to draw polygon button.
+**Step - 1:** Click to draw polygon button.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/%C5%9Fekil%C3%A7iz.jpg" width="30%">
 
-* **Step - 2:** Draw your polygon on map area.
+**Step - 2:** Draw your polygon on map area.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/poligon%C3%A7iz.jpg" width="60%">
