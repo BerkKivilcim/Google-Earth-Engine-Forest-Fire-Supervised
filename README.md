@@ -103,7 +103,6 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/koordinat.jpg" width="60%">
 
-
 * **Second Method:** If you want to select your area manually follow the steps below here.
 
 **Step - 1:** Click to draw polygon button.
@@ -112,11 +111,14 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 **Step - 2:** Draw your polygon on map area.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/poligon%C3%A7iz.jpg" width="60%">
-
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/poligon%C3%A7iz.jpg" width="60%">  
 
 * Also you can change the back layer of the visualization area for better visual understand. Two different options in here. Map and Satellite. If you select the satellite; the program will show the area with high quality satellite images.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/uydu.jpg" width="30%">
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/Screenshot_5.jpg" width="50%">
+
+* When you finish the drawing polygon, the properties of this polygon will Show up above the script. Just don’t forget delete the whole ‘var geometry’ because we identify new polygon.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/geometry.jpg" width="50%">
