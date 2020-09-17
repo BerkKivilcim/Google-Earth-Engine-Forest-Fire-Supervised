@@ -131,3 +131,4 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 * The dates are in ‘yyyy-mm-dd’ format. Enter a date you think was before the fire into the “var Start’s date section” and after the fire into the “var End’s date section”. When inputing the dates try to close them to date during burn. The closer to date during burn is gives better results.
 
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/dates.jpg" width="50%">
