@@ -95,7 +95,7 @@
 
 ### 2.3 Area Selection:
 
-* There are two different methods to identify polygons in other names areas.
+* There are two different methods to identify polygons in other name areas.
 
 * **First method:** If you estimate or know the corner coordinates of the polygon which is you want to work it can be directly input by manually.
 
