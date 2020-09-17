@@ -103,4 +103,4 @@ There are two different methods to identify polygons in other names areas.
 
 Just replace those coordinates with which coordinates you want to use. You can add or remove more polygon corner. **Those coordinates must be in Geodetic Coordinate format (latitude and longtitude) which is based on WGS84 Ellipsoid .**
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/koordinat.jpg" width="70%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/koordinat.jpg" width="60%">
