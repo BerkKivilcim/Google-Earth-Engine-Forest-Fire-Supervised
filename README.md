@@ -69,9 +69,9 @@ Open and see the source code with the help of notepad softwares and copy paste t
 
 '' Code son halini alınca link eklenicek ''
 
-![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/b%C3%BCy%C3%BCknotepad.jpg "Logo Title Text 3")
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/b%C3%BCy%C3%BCknotepad.jpg" width="70%">
 
-![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/yap%C4%B1%C5%9Ft%C4%B1r%C4%B1lcak%20yer%20b%C3%BCy%C3%BCk.jpg "Logo Title Text 4")
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/yap%C4%B1%C5%9Ft%C4%B1r%C4%B1lcak%20yer%20b%C3%BCy%C3%BCk.jpg" width="70%">
 
 ### 2.2 Saving Code:
 
@@ -82,7 +82,7 @@ load the script code into it.
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/makereposi.jpg" width="60%">
 
 * Write your repository name and create. It will Show up in Owner section.
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/newrepo.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/newrepo.jpg" width="40%">
 
 * Then click to save it in your repository. You can use the code in this repository anytime you want.
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/save.jpg" width="60%">
