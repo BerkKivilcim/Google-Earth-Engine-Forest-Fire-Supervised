@@ -132,3 +132,9 @@ Just replace those coordinates with which coordinates you want to use. You can a
 * The dates are in ‘yyyy-mm-dd’ format. Enter a date you think was before the fire into the “var Start’s date section” and after the fire into the “var End’s date section”. When inputing the dates try to close them to date during burn. The closer to date during burn is gives better results.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/dates.jpg" width="50%">
+
+**Some Date Selection Tips:
+
+* **Tip - 1: If your "var End" date is to close to present day you should change the "var END's" 50. This 50 means 50 days later from the "var End's" so sometimes it exceed the present day.**
+
+* **Tip - 2: Please try to avoid selecting time interval between winter. Most of forrest fires start during summer time so give attention to time interval should be between summer time. Trees will show different health situation and also snows etc. can effect the results. For example; you think the fire starts at july. Then select your time interval between june and August not like the January to December.
