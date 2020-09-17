@@ -133,7 +133,7 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/dates.jpg" width="50%">
 
-**Some Date Selection Tips:
+**Some Date Selection Tips:**
 
 * **Tip - 1: If your "var End" date is to close to present day you should change the "var END's" 50. This 50 means 50 days later from the "var End's" so sometimes it exceed the present day.**
 
