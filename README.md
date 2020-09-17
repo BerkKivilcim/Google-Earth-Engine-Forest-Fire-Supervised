@@ -28,8 +28,6 @@ Google Earth Engine (GEE) allow us to reach satellite image catalogs (catalog of
 
 Javascript has its own Google Earth Engine platform can be reachable from any browser. The browser link is (https://code.earthengine.google.com/) 
 
-**IMPORTANT: You need to change something in this code for some spesific results like burn severity calculation. Each time you change something from code please don’t forget reclick to Run button for see the latest results.**
-
 When we start the code; ,it sends a request to servers for compute and then gets results. So it will need internet connection.
  
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/01_What%20is%20Google%20Earth%20Engine_.png "Logo Title Text 1")
@@ -42,6 +40,8 @@ This open source code can be usable by anyone who want to see neutral true data 
 
 The code can be able to compute how many forrest field burned (in hectare unit as default), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVI) Charts, 
 Burn Severity Rate, time interval of the burning and shows before-after satellite image results which can be downloadable.
+
+**IMPORTANT: You need to change something in this code for some spesific results like burn severity calculation. Each time you change something from code please don’t forget reclick to Run button for see the latest results.**
 
 #### 1.4 Google Earth Engine Javascript Browser Layout:
 
