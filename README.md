@@ -12,13 +12,16 @@
     2.2 Saving Code
     2.3 Area Selection
     2.4 Date Selection
+    2.5 Training Sample Selection
 
 ##### 3. Analysing Results
     3.1 Visual Image Analysing
     3.2 Chart Analysing
     3.3 Numerical Analysing
     3.4 Exporting Images
-
+    
+##### 4. Possible Errors and How to fix Them.
+    4.0 Düşünce aşamasında 
 ---
 
 ## INTRODUCTION:
