@@ -1,6 +1,6 @@
 # Investigation of Forrest Fires with Google Earth Engine
 
-### Contents
+## Contents
 ##### 1.Introduction
     1.1 What is Google Earth Engine and How it Works
     1.2 Audience
