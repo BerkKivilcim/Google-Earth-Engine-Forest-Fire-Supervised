@@ -64,6 +64,6 @@ Burn Severity Rate, time interval of the burning and shows before-after satellit
 
 Open and see the source code with the help of notepad softwares and also copy paste the whole source code into the Google earth engine’s script section.
 
-![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 3")
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/b%C3%BCy%C3%BCknotepad.jpg "Logo Title Text 3")
 
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 4")
