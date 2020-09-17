@@ -4,8 +4,9 @@
 ##### 1. Introduction
     1.1 What is Google Earth Engine and How it Works
     1.2 Audience
-    1.3 Tools and Function
-    1.4 Google Earth Engine Javascript Browser Layout
+    1.3 License
+    1.4 Tools and Functions
+    1.5 Google Earth Engine Javascript Browser Layout
     
 ##### 2. How to use Code
     2.1 Importing Code
@@ -44,7 +45,13 @@
 
 ---
 
-### 1.3 Tools and Functions:
+### 1.3 License:
+
+* This tutorial prepared by Berk Kıvılcım under the mentorship of Berk Anbaroğlu and Nusret Demir
+
+---
+
+### 1.4 Tools and Functions:
 
 * The code can be able to compute how many forrest field burned (in hectare unit as default), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVI) Charts, Burn Severity Rate, time interval of the burning and shows before-after satellite image results which can be downloadable.
 
@@ -52,7 +59,7 @@
 
 ---
 
-### 1.4 Google Earth Engine Javascript Browser Layout:
+### 1.5 Google Earth Engine Javascript Browser Layout:
 
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 2")
 
