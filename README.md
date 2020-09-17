@@ -161,3 +161,8 @@ Just replace those coordinates with which coordinates you want to use. You can a
 * Determinede class properties. Type your Name; toprak, tree or burned. Select FeatureCollection. Write LC to property section then write the values started from 01. **Burned areas property value always must be 03.**
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/%C3%B6zellik_%C3%A7er%C3%A7eve.jpg" width="50%">
+
+* Then select the samples like from the below picture.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/sample.jpg" width="100%">
+
