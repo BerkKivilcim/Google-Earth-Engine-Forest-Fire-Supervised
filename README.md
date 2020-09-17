@@ -142,3 +142,15 @@ Just replace those coordinates with which coordinates you want to use. You can a
 ---
 
 ### 2.5 Training Sample Selection:
+
+* The code uses supervised classification for calculting how much area burned. For this process code needs to select some training areas. We can select it with point or polygon methods. I suggest to use polygon method. 
+
+* Firstly create classes. Default classes are (toprak (soil or dry land),  tree (healthy vegetation area), burned (burned areas)) so this classes must be created by user but still new classes can be added.
+
+* Click to +new layer
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/new%20layer.jpg" width="50%">
+
+* Determinede class properties. Type your Name toprak, tree or burned. Select FeatureCollection. Write LC to property section then write the values started from 01. Burned areas property value always must be 03.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/%C3%B6zellikler.jpg" width="50%">
