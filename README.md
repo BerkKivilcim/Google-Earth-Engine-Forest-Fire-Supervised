@@ -66,4 +66,4 @@ Open and see the source code with the help of notepad softwares and also copy pa
 
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/b%C3%BCy%C3%BCknotepad.jpg "Logo Title Text 3")
 
-![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 4")
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/yap%C4%B1%C5%9Ft%C4%B1r%C4%B1lcak%20yer%20b%C3%BCy%C3%BCk.jpg "Logo Title Text 4")
