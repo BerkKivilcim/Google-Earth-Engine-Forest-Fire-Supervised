@@ -56,3 +56,14 @@ Burn Severity Rate, time interval of the burning and shows before-after satellit
 
 **Map Area:** The area is where results of visualization displayed.
 
+---
+
+## HOW TO USE CODE:
+
+### 2.1 Importing Code:
+
+Open and see the source code with the help of notepad softwares and also copy paste the whole source code into the Google earth engine’s script section.
+
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 3")
+
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 4")
