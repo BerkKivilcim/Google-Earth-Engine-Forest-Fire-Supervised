@@ -85,5 +85,5 @@ load the script code into it.
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/newrepo.jpg "Logo Title Text 5")
 
 * Then click to save it in your repository. You can use the code in this repository anytime you want.
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/save.jpg" width="40%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/save.jpg" width="60%">
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/save.jpg "Logo Title Text 6")
