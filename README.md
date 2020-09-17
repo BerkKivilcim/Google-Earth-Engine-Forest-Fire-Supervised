@@ -29,3 +29,7 @@ Google Earth Engine (GEE) allow us to reach satellite image catalogs (catalog of
 Javascript has its own Google Earth Engine platform can be reachable from any browser. The browser link is (https://code.earthengine.google.com/) 
 
 **IMPORTANT: You need to change something in this code for some spesific results like burn severity calculation. Each time you change something from code please don’t forget reclick to Run button for see the latest results.**
+
+When we start the code; ,it sends a request to servers for compute and then gets results. So it will need internet connection.
+Inline-style: 
+![alt text](‪C:\Users\user\Desktop\01_What is Google Earth Engine_.png "Logo Title Text 1")
