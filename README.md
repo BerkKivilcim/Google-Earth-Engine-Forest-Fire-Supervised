@@ -175,3 +175,7 @@ Just replace those coordinates with which coordinates you want to use. You can a
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/kod2.jpg" width="100%">
 
 ---
+
+## ANALYSING RESULTS:
+
+### 3.1 Visual Image Analysing:
