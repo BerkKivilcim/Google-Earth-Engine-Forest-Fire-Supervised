@@ -105,10 +105,10 @@
 
 * **Second Method:** If you want to select your area manually follow the steps below here.
 
-**Step - 1:** Click to draw polygon button.
+* **Step - 1:** Click to draw polygon button.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/%C5%9Fekil%C3%A7iz.jpg" width="40%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/%C5%9Fekil%C3%A7iz.jpg" width="30%">
 
-**Step - 2:** Draw your polygon on map area.
+* **Step - 2:** Draw your polygon on map area.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/poligon%C3%A7iz.jpg" width="60%">
