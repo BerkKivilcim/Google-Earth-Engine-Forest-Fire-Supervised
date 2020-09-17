@@ -42,3 +42,6 @@ This open source code can be usable by anyone who want to see neutral true data 
 
 The code can be able to compute how many forrest field burned (in hectare unit as default), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVI) Charts, 
 Burn Severity Rate, time interval of the burning and shows before-after satellite image results which can be downloadable.
+
+#### 1.4 Google Earth Engine Javascript Browser Layout:
+
