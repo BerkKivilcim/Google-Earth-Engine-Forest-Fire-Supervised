@@ -46,3 +46,10 @@ Burn Severity Rate, time interval of the burning and shows before-after satellit
 #### 1.4 Google Earth Engine Javascript Browser Layout:
 
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 2")
+
+**Script Area:** The area is where we put our code.
+
+**Console Area:** The area is where graphical and numerical results displayed.
+
+**Map Area:** The area is where results of visualization displayed.
+
