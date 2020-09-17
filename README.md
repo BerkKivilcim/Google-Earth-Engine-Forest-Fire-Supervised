@@ -11,7 +11,7 @@
     2.1 Importing Code
     2.2 Saving Code
     2.3 Area Selection
-    2.4 Date Selection
+    2.4 Choosing Dates Before and After Burn
     2.5 Training Sample Selection
 
 ##### 3. Analysing Results
@@ -122,3 +122,10 @@ Just replace those coordinates with which coordinates you want to use. You can a
 * When you finish the drawing polygon, the properties of this polygon will Show up above the script. Just don’t forget delete the whole ‘var geometry’ because we identify new polygon.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/geometry.jpg" width="50%">
+
+---
+
+### 2.4 Choosing Dates Before and After Burn:
+
+* The dates are in ‘yyyy-mm-dd’ format. Enter a date you think was before the fire into the “var Start’s date section” and after the fire into the “var End’s date section”. When inputing the dates try to close them to date during burn. The closer to date during burn is gives better results.
+
