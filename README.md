@@ -24,7 +24,7 @@
 
 #### 1.1 What is Google Earth Engine and How it Works
 
-Google Earth Engine (GEE) allow us to reach satellite image catalogs (catalog of the Sentinel – MODIS – Landsat) and use geospatial or image processing algorithms on those images. There is are three different methods (Javascript – Python – REST) to reach this image catalogs. In this tutorial we handle use the JavaSscript (JS) as it is the native language of GEE.
+##### Google Earth Engine (GEE) allow us to reach satellite image catalogs (catalog of the Sentinel – MODIS – Landsat) and use geospatial or image processing algorithms on those images. There is are three different methods (Javascript – Python – REST) to reach this image catalogs. In this tutorial we handle use the JavaSscript (JS) as it is the native language of GEE.
 
 Javascript has its own Google Earth Engine platform can be reachable from any browser. The browser link is (https://code.earthengine.google.com/) 
 
