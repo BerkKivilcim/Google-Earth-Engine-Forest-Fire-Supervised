@@ -79,7 +79,7 @@
 
 '' Code son halini alınca link eklenicek ''
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/birle%C5%9Fik.jpg" width="100%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/birle%C5%9Fik2.jpg" width="100%">
 
 ---
 
