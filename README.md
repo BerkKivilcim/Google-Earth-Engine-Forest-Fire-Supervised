@@ -240,4 +240,17 @@ For example: According to below graphic the fire started at ‘16-08-2019‘ and
 
 * **GSD:** Ground Sample Distance is the lenght of each pixel’s edges corresponds in the real world distance. In this tutorial we used Sentinel-2 satellite which has the 10 meter GSD lenght for maximum resolution. That means each pixel correspond 100 (10*10) meter square area. Less GSD number means better resolution. 
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/istatistik.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/istatistik.jpg" width="70%">
+
+* **Burn Severity Calculation:** When we checked break points of the charts we understand the burn dates. Now check the NBR values of this breakpoints and input it to this beforevalue (NBR value of the date when fire begin) and aftervalue (NBR value of the date when fire stop). This will tell you the burn severity.
+
+```javascript
+var beforevalue=0.174
+var aftervalue=-0.045
+var delta=beforevalue-aftervalue
+```
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/tablo.jpg" width="70%">
+
+**Referance for the burn severity levels:** http://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/in-detail/normalized-burn-ratio#:~:text=The%20Normalized%20Burn%20Ratio%20(NBR,shortwave%20infrared%20(SWIR)%20wavelengths.
+
