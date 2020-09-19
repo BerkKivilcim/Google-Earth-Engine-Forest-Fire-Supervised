@@ -254,3 +254,8 @@ var delta=beforevalue-aftervalue
 
 **Referance for the burn severity levels:** http://un-spider.org/advisory-support/recommended-practices/recommended-practice-burn-severity/in-detail/normalized-burn-ratio#:~:text=The%20Normalized%20Burn%20Ratio%20(NBR,shortwave%20infrared%20(SWIR)%20wavelengths.
 
+---
+
+### 3.4 Exporting Images:
+
+* Exporting before and after RGB images quite simple. If you want before the burn images then click to “Export to Drive” button of left side map. If you want to after images then click to right side’s button. The difference between getting screenshot and pressing export; Exported images will be geotiff format which means images also have coordinate datas.
