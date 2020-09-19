@@ -204,7 +204,7 @@ Now we entered all things the code needed for run. Just click to run button and 
 
 **Only Burned:** The layer which is represent only the burned areas.
 
-We can check all of them from Layers section as a layer of each panels.
+* We can check all of them from Layers section as a layer of each panels.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layers.jpg" width="50%">
 
