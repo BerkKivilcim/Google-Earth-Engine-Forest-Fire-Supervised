@@ -231,3 +231,13 @@ For example: According to below graphic the fire started at ‘16-08-2019‘ and
 
 <p align="center"><img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/haber.jpg" width="70%"></p>
 <p align="center"><img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/grafikler.jpg" width="70%"></p>
+
+---
+
+### 3.3 Numerical Analysing:
+
+*  This code provide some numerical calculations like how many hectare burned or how bad is the burned area. Before the start we need to understand GSD (Ground Sample Distance).
+
+* **GSD:** Ground Sample Distance is the lenght of each pixel’s edges corresponds in the real world distance. In this tutorial we used Sentinel-2 satellite which has the 10 meter GSD lenght for maximum resolution. That means each pixel correspond 100 (10*10) meter square area. Less GSD number means better resolution. 
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/istatistik.jpg" width="50%">
