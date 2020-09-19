@@ -172,6 +172,10 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/kod2.jpg" width="100%">
 
+Now we entered all things the code needed for run. Just click to run button and see the results.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/run.jpg" width="100%">
+
 ---
 
 ## ANALYSING RESULTS:
