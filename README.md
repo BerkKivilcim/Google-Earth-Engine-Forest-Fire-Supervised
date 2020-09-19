@@ -263,3 +263,14 @@ var delta=beforevalue-aftervalue
 ### 3.4 Exporting Images:
 
 * Exporting before and after RGB images quite simple. If you want before the burn images then click to “Export to Drive” button of left side map. If you want to after images then click to right side’s button. The difference between getting screenshot and pressing export; Exported images will be geotiff format which means images also have coordinate datas.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/button.jpg" width="20%">
+
+* After the clicking button check the Task Section and clik to RUN.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/task.jpg" width="50%">
+
+* Then click to Run again. This will export the image into your Google Drive adress. 
+* **Note:** If the code tells, you passed the pixel limit you can select smaller area or increase the scale. Scale also is GSD. **That will decrease your image’s resolution.**
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/son.jpg" width="50%">
