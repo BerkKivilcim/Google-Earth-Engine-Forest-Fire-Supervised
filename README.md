@@ -189,3 +189,17 @@ Now we entered all things the code needed for run. Just click to run button and 
 ## ANALYSING RESULTS:
 
 ### 3.1 Visual Image Analysing:
+
+* When we click run, the code process some algorithms which they will explained in workflow section of the tutorial. Results are show in console and map panels. For visual analysis use map section and for the numerical analysis check to console section.
+
+* After the running code its divide map area into two section. The left part shows RGB – NBR images before burn and classified image after burn. The right part shows RGB – NBR images after burn and only the burned areas which is calculated from classified image.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/b%C3%BCt%C3%BCn.jpg" width="100%">
+
+**RGB Image:** The image which is formed from red, green, blue layers. This layer shows us to what human eye can see.
+
+**NBR Image:** NBR image maded from NBR calculation results. This layer help us to understand burning.
+
+**Classified Image:** The image which is shows dry ground, healthy vegetation areas and burned areas.
+
+**Only Burned:** The layer which is represent only the burned areas.
