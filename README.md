@@ -1,4 +1,4 @@
-# Investigation of Forrest Fires with Google Earth Engine
+# Investigation of Forest Fires with Google Earth Engine
 
 ## Contents
 ##### 1. Introduction
