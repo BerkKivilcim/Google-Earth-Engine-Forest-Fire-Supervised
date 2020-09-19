@@ -126,9 +126,9 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/Screenshot_5.jpg" width="50%">
 
-* When you finish the drawing polygon, the properties of this polygon will Show up above the script. Just don’t forget delete the whole ‘var geometry’ because we identify new polygon.
+* When you finish the drawing polygon, the properties of this polygon will Show up above the script. Just don’t forget delete the whole initial ‘var geometry’ because we identify new polygon.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/geometry.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/yenikor%C3%A7er.jpg" width="50%">
 
 ---
 
