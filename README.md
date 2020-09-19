@@ -53,7 +53,7 @@
 
 ### 1.4 Tools and Functions:
 
-* The code can be able to compute how many forrest field burned (in hectare unit as default), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVI) Charts, Burn Severity Rate, time interval of the burning and shows before-after satellite image results which can be downloadable.
+* The code can be able to compute how many forrest field burned (in hectare unit as default), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVI) Charts, Burn Severity Rate, time interval of the burning and shows before-after satellite image results by using Sentinel-2 Satellite. Those datas can be downloadable.
 
 * **IMPORTANT: You need to change something in this code for some spesific results like burn severity calculation. Each time you change something from code please don’t forget reclick to Run button for see the latest results.**
 
