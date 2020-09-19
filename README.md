@@ -110,7 +110,9 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/koordinat.jpg" width="60%">
 
-* **Second Method:** If you want to select your area manually follow the steps below here.
+* **Second Method:** If you want to select your area manually follow the steps below here. Also you can easily find your work area with search bar just typing your adresses.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/adress.jpg" width="100%">
 
 **Step - 1:** Click to draw polygon button.
 
