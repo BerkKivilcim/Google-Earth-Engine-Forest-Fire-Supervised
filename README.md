@@ -208,10 +208,14 @@ Now we entered all things the code needed for run. Just click to run button and 
 
 * We can check all of them from Layers section as a layer of each panels.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/layers.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/layers.jpg" width="60%">
 
 ### **VERY IMPORTANT:** 
-**Please check the classification is good or not. Its all about your training sample selection. Best way to check it; look the "only burned layer" and "RGB Later layer or base satellite vision" together. If burned areas not cover the most of real burned areas or cover too much area like dry ground or healthy vegetation then click to Reset button. This button will turn back to inital layout which is shown in section 2.5's screenshot. Don't worry your previous training samples will be protected. Then select more training samples from where the classification looks wrong.**
+**Please check the classification is good or not. Its all about your training sample selection. Best way to check it; look the "only burned layer (white layer)" and "RGB Later layer or base satellite vision" together. If burned areas not cover the most of real burned areas or cover too much area like dry ground or healthy vegetation then click to Reset button. This button will turn back to inital layout which is shown in section 2.5's screenshot. Don't worry your previous training samples will be protected. Then select more training samples from where the classification looks wrong.**
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/layerli.jpg" width="60%">
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/bilgili.jpg" width="60%">
 
 ---
 
