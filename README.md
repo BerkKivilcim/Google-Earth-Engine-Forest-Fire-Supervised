@@ -231,7 +231,7 @@ Now we entered all things the code needed for run. Just click to run button and 
 
 * If you wanted to understand burning date interval put your Mouse on to graphic’s line. The breaking points (where the graphic mostly changed) will shows the date of burning.
 For example: According to below graphic the fire started at ‘16-08-2019‘ and continued until the ’21-08-2019’.  This example based on İzmir Karabağlar and also its burning date data published from trthaber (turkish radio and television institution news).
-* Referance web site for Izmır Karabağlar forest fire news is https://www.trthaber.com/haber/turkiye/izmir-ve-mugladaki-orman-yanginlari-uydudan-goruntulendi-427564.html
+* Referance web site for Izmır Karabağlar forest fire new is https://www.trthaber.com/haber/turkiye/izmir-ve-mugladaki-orman-yanginlari-uydudan-goruntulendi-427564.html
 
 <p align="center"><img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/haber.jpg" width="70%"></p>
 <p align="center"><img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/grafikler.jpg" width="70%"></p>
