@@ -281,5 +281,4 @@ var delta=beforevalue-aftervalue
 
 ### 4.1 Youtube Video:
 
-<a href="https://www.youtube.com/watch?v=4Fk_ly661Vc" target="_blank"><img src="https://www.google.com/search?q=youtube&sxsrf=ALeKk00I0yIFPHCq4GebXKab1kBlliUiYQ:1600539787228&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiDs92r6_XrAhVwUBUIHf6RBKIQ_AUoBHoECBoQBg&biw=1920&bih=969#imgrc=rTmhTV_p1VaHyM" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[[VIDEO LINK HERE CLICK ME]](https://www.youtube.com/watch?v=4Fk_ly661Vc)
