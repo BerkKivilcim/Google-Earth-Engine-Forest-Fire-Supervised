@@ -35,13 +35,13 @@
 
 * When we start the code; it sends a request to servers for compute and then gets results. So it will need internet connection.
  
-![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/01_What%20is%20Google%20Earth%20Engine_.png "Logo Title Text 1")
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/01_What%20is%20Google%20Earth%20Engine_.png "Logo Title Text 1")
 
 ---
 
 ### 1.2 Audience:
 
-* This open source code can be usable by anyone who want to see neutral true data about forrest fires and environment also who want to test, develop for better forrest fire investigation and researches.
+* This open source code can be usable by anyone who want to see neutral true data about forest fires and environment also who want to test, develop for better forest fire investigation and researches.
 
 ---
 
@@ -53,7 +53,7 @@
 
 ### 1.4 Tools and Functions:
 
-* The code can be able to compute how many forrest field burned (in hectare unit as default), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVI) Charts, Burn Severity Rate, time interval of the burning and shows before-after satellite image results by using Sentinel-2 Satellite. Those datas can be downloadable.
+* The code can be able to compute how many forest field burned (in hectare unit as default), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVI) Charts, Burn Severity Rate, time interval of the burning and shows before-after satellite image results by using Sentinel-2 Satellite. Those datas can be downloadable.
 
 * **IMPORTANT: You need to change something in this code for some spesific results like burn severity calculation. Each time you change something from code please don’t forget reclick to Run button for see the latest results.**
 
@@ -61,7 +61,7 @@
 
 ### 1.5 Google Earth Engine Javascript Browser Layout:
 
-![alt text](https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 2")
+![alt text](https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 2")
 
 * **Script Area:** The area is where we put our code.
 
@@ -79,7 +79,7 @@
 
 '' Code son halini alınca link eklenicek ''
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/birle%C5%9Fik2.jpg" width="100%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/birle%C5%9Fik2.jpg" width="100%">
 
 ---
 
@@ -88,13 +88,13 @@
 * If you wanted to save your code into your Google Earth Engine account create a repository and load the script code into it.
 
 * Click NEW, then click Repository:
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/makereposi.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/makereposi.jpg" width="50%">
 
 * Write your repository name and create. It will Show up in Owner section.
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/newrepo.jpg" width="40%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/newrepo.jpg" width="40%">
 
 * Then click to save it in your repository. You can use the code in this repository anytime you want.
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/save.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/save.jpg" width="50%">
 
 ---
 
@@ -108,29 +108,29 @@
 
 Just replace those coordinates with which coordinates you want to use. You can add or remove more polygon corner. **Those coordinates must be in Geodetic Coordinate format (latitude and longitude) which is based on WGS84 Ellipsoid .**
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/koordinat.jpg" width="60%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/koordinat.jpg" width="60%">
 
 * **Second Method:** If you want to select your area manually follow the steps below here. Also you can easily find your work area with search bar just typing your adresses.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/adress.jpg" width="100%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/adress.jpg" width="100%">
 
 **Step - 1:** Click to draw polygon button.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/%C5%9Fekil%C3%A7iz.jpg" width="30%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/%C5%9Fekil%C3%A7iz.jpg" width="30%">
 
 **Step - 2:** Draw your polygon on map area.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/poligon%C3%A7iz.jpg" width="60%">  
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/poligon%C3%A7iz.jpg" width="60%">  
 
 * Also you can change the back layer of the visualization area for better visual understand. Two different options in here. Map and Satellite. If you select the satellite; the program will show the area with high quality satellite images.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/uydu.jpg" width="30%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/uydu.jpg" width="30%">
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/Screenshot_5.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/Screenshot_5.jpg" width="50%">
 
 * When you finish the drawing polygon, the properties of this polygon will Show up above the script. Just don’t forget delete the whole initial ‘var geometry’ because we identify new polygon.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/yenikor%C3%A7er.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/yenikor%C3%A7er.jpg" width="50%">
 
 ---
 
@@ -160,15 +160,15 @@ var END =End.advance(50,'day');
 
 * Click to +new layer
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/new%20layer.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/new%20layer.jpg" width="50%">
 
 * Determinede class properties. Type your Name; toprak, tree or burned. Select FeatureCollection. Write LC to property section then write the values started from 01. **Burned areas property value always must be 03.**
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/%C3%B6zellik_%C3%A7er%C3%A7eve.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/%C3%B6zellik_%C3%A7er%C3%A7eve.jpg" width="50%">
 
 * Then select the samples like from the below picture.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/sample.jpg" width="100%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/sample.jpg" width="100%">
 
 * If you want to add more classes than default there would be an extra step. Create your class and determine properties then in the code add .merge('your_new_class') to "var feature".
 
@@ -184,7 +184,7 @@ Map.addLayer(classified,{min:1, max:3, palette:['0000FF','00FF00','FF0000']},'cl
 
 Now we entered all things the code needed for run. Just click to run button and see the results.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/run.jpg" width="100%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/run.jpg" width="100%">
 
 ---
 
@@ -196,7 +196,7 @@ Now we entered all things the code needed for run. Just click to run button and 
 
 * After the running code its divide map area into two section. The left part shows RGB – NBR images before burn and classified image after burn. The right part shows RGB – NBR images after burn and only the burned areas which is calculated from classified image.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/b%C3%BCt%C3%BCn.jpg" width="100%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/b%C3%BCt%C3%BCn.jpg" width="100%">
 
 **RGB Image:** The image which is formed from red, green, blue layers. This layer shows us to what human eye can see.
 
@@ -208,7 +208,7 @@ Now we entered all things the code needed for run. Just click to run button and 
 
 * We can check all of them from Layers section as a layer of each panels.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/layers.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/layers.jpg" width="50%">
 
 ### **VERY IMPORTANT:** 
 **Please check the classification is good or not. Its all about your training sample selection. Best way to check it; look the "only burned layer" and "RGB Later layer or base satellite vision" together. If burned areas not cover the most of real burned areas or cover too much area like dry ground or healthy vegetation then click to Reset button. This button will turn back to inital layout which is shown in section 2.5's screenshot. Don't worry your previous training samples will be protected. Then select more training samples from where the classification looks wrong.**
@@ -219,11 +219,11 @@ Now we entered all things the code needed for run. Just click to run button and 
 
 * After the clicking run button, charts automaticly will show up in console section. There is two different chart. One shows the NBR and the other one shows NDVI. This both charts gave us the information about vegitation health and date interval of the burning.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/nbr.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/nbr.jpg" width="50%">
 
 * NIR means Near Infra Red and SWIR means Shor Wave Infra Red bands of the satellite sensor.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/sentinel.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/sentinel.jpg" width="50%">
 
 * If you wanted to understand burning date interval put your Mouse on to graphic’s line. The breaking points (where the graphic mostly changed) will shows the date of burning.
 For example: According to below graphic the fire started at ‘16-08-2019‘ and continued until the ’21-08-2019’.  This example based on İzmir Karabağlar and also its burning date data published from trthaber (turkish radio and television institution news).
