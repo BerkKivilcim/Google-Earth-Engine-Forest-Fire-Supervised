@@ -136,7 +136,11 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 * The dates are in ‘yyyy-mm-dd’ format. Enter a date you think was before the fire into the “var Start’s date section” and after the fire into the “var End’s date section”. When inputing the dates try to close them to date during burn. The closer to date during burn is gives better results.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/dates.jpg" width="50%">
+```javascript
+var Start=ee.Date('2019-07-05'); //date before burn
+var End=ee.Date('2019-10-05');  //date after burn
+var END =End.advance(50,'day');
+```
 
 **Some Date Selection Tips:**
 
@@ -166,11 +170,15 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 * If you want to add more classes than default there would be an extra step. Create your class and determine properties then in the code add .merge('your_new_class') to "var feature".
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/kodta%20ekleme.jpg" width="70%">
+```javascript
+var feature= toprak.merge(tree).merge(burned);
+```
 
 * Also change classified picture's map.addLayer's max:___ to how many classes you want. In the beginning we have 3 classes so max: would be 3. We should change it.
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/kod2.jpg" width="100%">
+```javascript
+Map.addLayer(classified,{min:1, max:3, palette:['0000FF','00FF00','FF0000']},'classification');
+```
 
 Now we entered all things the code needed for run. Just click to run button and see the results.
 
