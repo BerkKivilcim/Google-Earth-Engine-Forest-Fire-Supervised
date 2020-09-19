@@ -210,3 +210,15 @@ Now we entered all things the code needed for run. Just click to run button and 
 
 ### **VERY IMPORTANT:** 
 **Please check the classification is good or not. Its all about your training sample selection. Best way to check it; look the "only burned layer" and "RGB Later layer or base satellite vision" together. If burned areas not cover the most of real burned areas or cover too much area like dry ground or healthy vegetation then click to Reset button. This button will turn back to inital layout which is shown in section 2.5's screenshot. Don't worry your previous training samples will be protected. Then select more training samples from where the classification looks wrong.**
+
+---
+
+### 3.2 Chart Analysing:
+
+* After the clicking run button, charts automaticly will show up in console section. There is two different chart. One shows the NBR and the other one shows NDVI. This both charts gave us the information about vegitation health and date interval of the burning.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/nbr.jpg" width="50%">
+
+* NIR means Near Infra Red and SWIR means Shor Wave Infra Red bands of the satellite sensor.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forrest-Fire/blob/master/images/sentinel.jpg" width="50%">
