@@ -21,8 +21,8 @@
     3.3 Numerical Analysing
     3.4 Exporting Images
     
-##### 4. Possible Errors and How to fix Them.
-    4.0 Düşünce aşamasında 
+##### 4. Hands On Training Youtube Video
+    4.1 Youtube Video
 ---
 
 ## INTRODUCTION:
@@ -274,3 +274,9 @@ var delta=beforevalue-aftervalue
 * **Note:** If the code tells, you passed the pixel limit you can select smaller area or increase the scale. Scale also is GSD. **That will decrease your image’s resolution.**
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/son.jpg" width="50%">
+
+---
+
+## HANDS ON TRAINING YOUTUBE VIDEO:
+
+### 4.1 Youtube Video:
