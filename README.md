@@ -77,7 +77,7 @@
 
 * Open and see the source code with the help of notepad softwares and copy paste the whole source code into the Google earth engine’s script section also you can use the link below here for directly opening the code in GEE.
 
-'' Code son halini alınca link eklenicek ''
+**The Link:** https://code.earthengine.google.com/7e9f61b31723052e9a09909a058ee3b7
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/birle%C5%9Fik2.jpg" width="100%">
 
