@@ -6,7 +6,8 @@
     1.2 Audience
     1.3 License
     1.4 Tools and Functions
-    1.5 Google Earth Engine Javascript Browser Layout
+    1.5 Register to Google Earth Engine
+    1.6 Google Earth Engine Javascript Browser Layout
     
 ##### 2. How to use Code
     2.1 Code's User Workflow
@@ -35,6 +36,8 @@
 
 * Javascript has its own Google Earth Engine platform can be reachable from any browser. The browser link is (https://code.earthengine.google.com/) 
 
+* When you click to link it will tell you need to register. Process Explained in section 1.5.
+
 * When we start the code; it sends a request to servers for compute and then gets results. So it will need internet connection.
  
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/01_What%20is%20Google%20Earth%20Engine_.png "Logo Title Text 1")
@@ -61,7 +64,17 @@
 
 ---
 
-### 1.5 Google Earth Engine Javascript Browser Layout:
+### 1.5 Register to Google Earth Engine:
+
+* When you try to access https://code.earthengine.google.com/ you will face up with register screen. If you registered once you will never face it again.
+
+* Click to "here" button then in next page fill the form and send a request to google. Usually your request approve immediately but sometimes it will take a while.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/%C3%A7emberli.jpg" width="100%">
+
+---
+
+### 1.6 Google Earth Engine Javascript Browser Layout:
 
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 2")
 
