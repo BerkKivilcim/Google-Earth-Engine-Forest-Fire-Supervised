@@ -22,7 +22,7 @@
     3.1 Visual Image Analysing
     3.2 Chart Analysing
     3.3 Numerical Analysing
-    3.4 Exporting Images
+    3.4 Exporting Images and Charts
     
 ---
 
@@ -285,7 +285,7 @@ var delta=beforevalue-aftervalue
 
 ---
 
-### 3.4 Exporting Images:
+### 3.4 Exporting Images and Charts:
 
 * Exporting before and after RGB images quite simple. If you want before the burn images then click to “Export to Drive” button of left side map. If you want to after images then click to right side’s button. The difference between getting screenshot and pressing export; Exported images will be geotiff format which means images also have coordinate datas.
 
@@ -299,6 +299,15 @@ var delta=beforevalue-aftervalue
 * **Note:** If the code tells, you passed the pixel limit you can select smaller area or increase the scale. Scale also is GSD. **That will decrease your image’s resolution.**
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/son.jpg" width="50%">
+
+* If you want to export charts click to upper-right button of the chart.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/grafik%20indir.jpg" width="50%">
+
+* Then select to which format you want to download.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/formats.jpg" width="50%">
+
 
 ---
 
