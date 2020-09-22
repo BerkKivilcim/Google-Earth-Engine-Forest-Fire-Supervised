@@ -24,8 +24,6 @@
     3.3 Numerical Analysing
     3.4 Exporting Images
     
-##### 4. Example 
-    4.1 The link
 ---
 
 ## INTRODUCTION:
@@ -304,10 +302,8 @@ var delta=beforevalue-aftervalue
 
 ---
 
-## HANDS ON TRAINING YOUTUBE VIDEO:
 
-### 4.1 Youtube Video:
 
-[[VIDEO LINK HERE CLICK ME]](https://www.youtube.com/watch?v=4Fk_ly661Vc)
 
----
+
+
