@@ -9,11 +9,13 @@
     1.5 Google Earth Engine Javascript Browser Layout
     
 ##### 2. How to use Code
-    2.1 Importing Code
-    2.2 Saving Code
-    2.3 Area Selection
-    2.4 Choosing Dates Before and After Burn
-    2.5 Training Sample Selection
+    2.1 Code's User Workflow
+    2.2 User Workflow Youtube Tutorial Video
+    2.3 Importing Code
+    2.4 Saving Code
+    2.5 Area Selection
+    2.6 Choosing Dates Before and After Burn
+    2.7 Training Sample Selection
 
 ##### 3. Analysing Results
     3.1 Visual Image Analysing
@@ -21,8 +23,8 @@
     3.3 Numerical Analysing
     3.4 Exporting Images
     
-##### 4. Hands On Training Youtube Video
-    4.1 Youtube Video
+##### 4. Example 
+    4.1 The link
 ---
 
 ## INTRODUCTION:
@@ -72,6 +74,10 @@
 ---
 
 ## HOW TO USE CODE:
+
+### 2.1 Code's User Workflow:
+
+<p align="center"><img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/workflowframe.jpg" width="70%"></p>
 
 ### 2.1 Importing Code:
 
