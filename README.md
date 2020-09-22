@@ -89,7 +89,9 @@
 
 ### 2.3 Importing Code:
 
-* Open and see the source code with the help of notepad softwares and copy paste the whole source code into the Google earth engine’s script section.
+* Download and see the source code with the help of notepad softwares or directly open the code from the link below here then copy paste to whole source code into the Google earth engine's script section.
+
+* **The Link for source code**: https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/Forest_Fire_Gee_with_more_comments.js
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/birle%C5%9Fik2.jpg" width="100%">
 
