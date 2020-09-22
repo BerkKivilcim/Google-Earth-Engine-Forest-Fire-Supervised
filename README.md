@@ -79,7 +79,15 @@
 
 <p align="center"><img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/workflowframe.jpg" width="70%"></p>
 
-### 2.1 Importing Code:
+---
+
+### 2.2 User Workflow Youtube Tutorial Video:
+
+---
+
+[[VIDEO LINK HERE CLICK ME]](https://www.youtube.com/watch?v=4Fk_ly661Vc)
+
+### 2.3 Importing Code:
 
 * Open and see the source code with the help of notepad softwares and copy paste the whole source code into the Google earth engine’s script section.
 
@@ -87,7 +95,7 @@
 
 ---
 
-### 2.2 Saving Code:
+### 2.4 Saving Code:
 
 * If you wanted to save your code into your Google Earth Engine account create a repository and load the script code into it.
 
@@ -102,7 +110,7 @@
 
 ---
 
-### 2.3 Area Selection:
+### 2.5 Area Selection:
 
 * There are two different methods to identify polygons in other name areas.
 
@@ -138,7 +146,7 @@ Just replace those coordinates with which coordinates you want to use. You can a
 
 ---
 
-### 2.4 Choosing Dates Before and After Burn:
+### 2.6 Choosing Dates Before and After Burn:
 
 * The dates are in ‘yyyy-mm-dd’ format. Enter a date you think was before the fire into the “var Start’s date section” and after the fire into the “var End’s date section”. When inputing the dates try to close them to date during burn. The closer to date during burn is gives better results.
 
@@ -156,7 +164,7 @@ var END =End.advance(50,'day');
 
 ---
 
-### 2.5 Training Sample Selection:
+### 2.7 Training Sample Selection:
 
 * The code uses supervised classification for calculting how much area burned. For this process code needs to select some training areas. We can select it with point or polygon methods. I suggest to use polygon method. 
 
