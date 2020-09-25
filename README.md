@@ -187,7 +187,7 @@ var END =End.advance(50,'day');
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/new%20layer.jpg" width="50%">
 
-* Determinede class properties. Type your Name; toprak, tree or burned. Select FeatureCollection. Write LC to property section then write the values started from 01. **Burned areas property value always must be 03.**
+* Determinede class properties. Type your Name; toprak, tree or burned. Select FeatureCollection. Write LC (landcover) to property section then write the values started from 01. **Burned areas property value always must be 03.** The reason behind that is the code export the 3rd class from classified image as only burned area layer so class value must be 3.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/%C3%B6zellik_%C3%A7er%C3%A7eve.jpg" width="50%">
 
