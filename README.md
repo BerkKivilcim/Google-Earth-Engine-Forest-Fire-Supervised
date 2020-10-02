@@ -178,7 +178,7 @@ var END =End.advance(50,'day');
 * **Tip - 2.2: This season based erros in charts can be ignorable. Initial date filter shows the all data during the whole year (first day to 365th day) but If you change this initial values in the code's line 60 then you can filter the datas. For example If  you write 122 and 275 as start and end dates of the filter then the code only count the dates between 1 May to 1 October so not count the winter days and in the conclusion there would be no winter data in charts. In the example above here; 122 represent 122th day of the year which is means 1 May and 275 means 275th day of the year and its the 1 October.**
 
 ```javascript
-.filter(ee.Filter.dayOfYear(61, 275)) 
+.filter(ee.Filter.dayOfYear(122, 275)) 
 ```
 
 * Unfiltered 2018-2020 graphic for 2019 forest fire.
