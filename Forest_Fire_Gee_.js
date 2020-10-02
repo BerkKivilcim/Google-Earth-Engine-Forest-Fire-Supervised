@@ -162,7 +162,7 @@ print(realValue)
 var pixel_area=10*10;
 var hectar_m2_ratio=10000
 // calculating burned areas in unit of hectare
-print('yanan hektar',realValue.multiply(pixel_area/hectar_m2_ratio))
+print('burned area with unit of hectare',realValue.multiply(pixel_area/hectar_m2_ratio))
 
 // calculating burn severity
 var beforevalue=0.174
