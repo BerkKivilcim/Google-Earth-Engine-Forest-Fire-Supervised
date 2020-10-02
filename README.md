@@ -173,7 +173,21 @@ var END =End.advance(50,'day');
 
 * **Tip - 1: If your "var End" date is to close to present day you should change the "var END's" 50. This 50 means 50 days later from the "var End's" so sometimes it exceed the present day.**
 
-* **Tip - 2: Trees will show different health situation with different seasons and also some exterior parameters like snow can effect the results. For example; you think the fire starts at july. Then select your time interval between june and August not like the January to December. In conclusion if Start and End dates close to burn date results will be more correct.**
+* **Tip - 2.1: Trees will show different health situation with different seasons and also some exterior parameters like snow can effect the results. For example; you think the fire starts at july. Then select your time interval between june and August not like the January to December. In conclusion if Start and End dates close to burn date results will be more correct. If your region not tropical and you know the burn not start during winter season you can apply the filter below here for winter-autumn changes.**
+
+* **Tip - 2.2: This season based erros in charts can be ignorable. Initial date filter shows the all data during the whole year (first day to 365th day) but If you change this initial values in the code's line 60 then you can filter the datas. For example If  you write 122 and 275 as start and end dates of the filter then the code only count the dates between 1 May to 1 October so not count the winter days and in the conclusion there would be no winter data in charts. In the example above here; 122 represent 122th day of the year which is means 1 May and 275 means 275th day of the year and its the 1 October.**
+
+```javascript
+.filter(ee.Filter.dayOfYear(61, 275)) 
+```
+
+* Unfiltered 2018-2020 graphic for 2019 forest fire.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/yaz_k%C4%B1%C5%9F_birlikte.jpg" width="50%">
+
+* Filtered 2018-2020 graphic for 2019 forest fire.
+
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/k%C4%B1%C5%9F_yok.jpg" width="50%">
 
 * **Tip - 3: Google Earth Engine is a new technology so If you try to get old fire datas like 1999-2007-2010... There would be no data catalog so the code won't work and If you try to get newest fire datas like today's date the satellite probably not collect the data yet so you should wait a couple days or check the other satellite's datas.** 
 
