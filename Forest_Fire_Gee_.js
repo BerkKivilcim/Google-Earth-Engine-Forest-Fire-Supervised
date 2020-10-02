@@ -19,6 +19,9 @@ var geometry = ee.Geometry.Polygon(
  [27.004674390381986,38.313107280125934],
  [26.99059815747183,38.27096885531639]]);
 
+var beforevalue=0.174
+var aftervalue=-0.045
+
 // Cloud Masking which is used for RGB visualization.
 var s1 = ee.Image('COPERNICUS/S2/20160422T084804_20160422T123809_T36TVK')
 
@@ -165,8 +168,6 @@ var hectar_m2_ratio=10000
 print('burned area with unit of hectare',realValue.multiply(pixel_area/hectar_m2_ratio))
 
 // calculating burn severity
-var beforevalue=0.174
-var aftervalue=-0.045
 var delta=beforevalue-aftervalue
 
 if (delta>0.66) {print('its high severity burn')
