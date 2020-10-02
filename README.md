@@ -181,13 +181,9 @@ var END =End.advance(50,'day');
 .filter(ee.Filter.dayOfYear(122, 275)) 
 ```
 
-* Unfiltered 2018-2020 graphic for 2019 forest fire.                Filtered 2018-2020 graphic for 2019 forest fire.    
+* Unfiltered 2018-2020 graphic for 2019 forest fire.   ---------------------   Filtered 2018-2020 graphic for 2019 forest fire.    
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/yaz_k%C4%B1%C5%9F_bitişikgraf.jpg" width="100%">
-
-* Filtered 2018-2020 graphic for 2019 forest fire.
-
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/k%C4%B1%C5%9F_yok.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/biti%C5%9Fikgraf.jpg" width="100%">
 
 * **Tip - 3: Google Earth Engine is a new technology so If you try to get old fire datas like 1999-2007-2010... There would be no data catalog so the code won't work and If you try to get newest fire datas like today's date the satellite probably not collect the data yet so you should wait a couple days or check the other satellite's datas.** 
 
