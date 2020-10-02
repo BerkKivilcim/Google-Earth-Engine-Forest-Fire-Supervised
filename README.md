@@ -175,6 +175,8 @@ var END =End.advance(50,'day');
 
 * **Tip - 2: Trees will show different health situation with different seasons and also some exterior parameters like snow can effect the results. For example; you think the fire starts at july. Then select your time interval between june and August not like the January to December. In conclusion if Start and End dates close to burn date results will be more correct.**
 
+* **Tip - 3: Google Earth Engine is a new technology so If you try to get old fire datas like 1999-2007-2010... There would be no data catalog so the code won't work and If you try to get newest fire datas like today's date the satellite probably not collect the data yet so you should wait a couple days or check the other satellite's datas.** 
+
 ---
 
 ### 2.7 Training Sample Selection:
