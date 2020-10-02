@@ -181,7 +181,7 @@ var END =End.advance(50,'day');
 
 * The code uses supervised classification for calculting how much area burned. For this process code needs to select some training areas. We can select it with point or polygon methods. I suggest to use polygon method. 
 
-* Firstly create classes. Default classes are (soil (soil or dry land),  tree (healthy vegetation area), burned (burned areas)) so this classes must be created by user but still new classes can be added.
+* Firstly create classes. Default classes are ("soil" (soil or dry land),  "tree" (healthy vegetation area), "burned" (burned areas)) so this classes must be created by user but still new classes can be added.
 
 * Click to +new layer
 
