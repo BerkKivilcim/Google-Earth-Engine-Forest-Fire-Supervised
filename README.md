@@ -181,9 +181,9 @@ var END =End.advance(50,'day');
 .filter(ee.Filter.dayOfYear(122, 275)) 
 ```
 
-* Unfiltered 2018-2020 graphic for 2019 forest fire.
+* Unfiltered 2018-2020 graphic for 2019 forest fire.                Filtered 2018-2020 graphic for 2019 forest fire.    
 
-<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/yaz_k%C4%B1%C5%9F_birlikte.jpg" width="50%">
+<img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/yaz_k%C4%B1%C5%9F_bitişikgraf.jpg" width="100%">
 
 * Filtered 2018-2020 graphic for 2019 forest fire.
 
