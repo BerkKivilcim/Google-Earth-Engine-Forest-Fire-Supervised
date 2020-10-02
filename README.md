@@ -181,13 +181,13 @@ var END =End.advance(50,'day');
 
 * The code uses supervised classification for calculting how much area burned. For this process code needs to select some training areas. We can select it with point or polygon methods. I suggest to use polygon method. 
 
-* Firstly create classes. Default classes are (toprak (soil or dry land),  tree (healthy vegetation area), burned (burned areas)) so this classes must be created by user but still new classes can be added.
+* Firstly create classes. Default classes are (soil (soil or dry land),  tree (healthy vegetation area), burned (burned areas)) so this classes must be created by user but still new classes can be added.
 
 * Click to +new layer
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/new%20layer.jpg" width="50%">
 
-* Determinede class properties. Type your Name; toprak, tree or burned. Select FeatureCollection. Write **LC** which is mean landcover (do not type landcover or something different just type LC) to property section then write the values started from 01. **Burned areas property value always must be 03.** The reason behind that is the code export the 3rd class from classified image as only burned area layer so class value must be 3.
+* Determinede class properties. Type your Name; "soil", "tree" or "burned". Those names need to be exactly same from tutorial. Select FeatureCollection. Write **LC** which is mean landcover (do not type landcover or something different just type LC) to property section then write the values started from 01. **Burned areas property value always must be 03.** The reason behind that is the code export the 3rd class from classified image as only burned area layer so class value must be 3.
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/%C3%B6zellik_%C3%A7er%C3%A7eve.jpg" width="50%">
 
@@ -198,7 +198,7 @@ var END =End.advance(50,'day');
 * If you want to add more classes than default there would be an extra step. Create your class and determine properties then in the code add .merge('your_new_class') to "var feature".
 
 ```javascript
-var feature= toprak.merge(tree).merge(burned);
+var feature= soil.merge(tree).merge(burned);
 ```
 
 * Also change classified picture's map.addLayer's max:___ to how many classes you want. In the beginning we have 3 classes so max: would be 3. We should change it.
