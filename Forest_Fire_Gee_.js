@@ -128,8 +128,8 @@ var clipdata3=collection3.median().clip(geometry);
 Map.addLayer(clipdata3, rgbVis, 'RGB Later');
 
 // classification
-//Select training areas for toprak - tree - burned
-var feature= toprak.merge(tree).merge(burned);
+//Select training areas for soil - tree - burned
+var feature= soil.merge(tree).merge(burned);
 
 var bands=['B4','B3','B2'];
 var training=clipdata3.sampleRegions({
