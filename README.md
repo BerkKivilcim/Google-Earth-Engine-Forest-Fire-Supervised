@@ -181,7 +181,7 @@ var END =End.advance(50,'day');
 .filter(ee.Filter.dayOfYear(122, 275)) 
 ```
 
-<pre class="tab">    Unfiltered 2018-2020 graphic for 2019 forest fire.           Filtered 2018-2020 graphic for 2019 forest fire.</pre>    
+<pre class="tab">    Unfiltered 2018-2020 graphic for 2019 forest fire.             Filtered 2018-2020 graphic for 2019 forest fire.</pre>    
 
 <img src="https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/biti%C5%9Fikgraf.jpg" width="100%">
 
