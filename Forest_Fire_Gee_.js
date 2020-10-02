@@ -44,14 +44,12 @@ function maskS2clouds(s1) {
 var collection = ee.ImageCollection('COPERNICUS/S2')
                   .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))
                   .filterDate(Start,End)
-                  //.filter(ee.Filter.dayOfYear(FirstDay, LastDay)) 
                   .sort('DATE_ACQUIRED',true)
                   .map(maskS2clouds);
                   
 var collection3 = ee.ImageCollection('COPERNICUS/S2')
                   .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))
-                  .filterDate(End,END)
-                  //.filter(ee.Filter.dayOfYear(FirstDay, LastDay)) 
+                  .filterDate(End,END)              
                   .sort('DATE_ACQUIRED',true)
                   .map(maskS2clouds);                 
 
@@ -59,7 +57,7 @@ var collection3 = ee.ImageCollection('COPERNICUS/S2')
 var collection2= ee.ImageCollection('COPERNICUS/S2_SR')
                   .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))
                   .filterDate(Start,End)                
-                  //.filter(ee.Filter.dayOfYear(FirstDay, LastDay)) 
+                  .filter(ee.Filter.dayOfYear(0, 365)) 
                   .sort('DATE_ACQUIRED',true)
 
 // Calculating NBR and Using image collection properties which is means it using image collection date and satellite properties.
