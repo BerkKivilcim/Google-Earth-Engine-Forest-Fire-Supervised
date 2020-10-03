@@ -94,7 +94,7 @@
 
 ### 2.2 User Workflow Youtube Tutorial Video:
 
-[[VIDEO LINK HERE CLICK ME]](https://www.youtube.com/watch?v=4Fk_ly661Vc)
+[[VIDEO LINK HERE CLICK ME]](https://www.youtube.com/watch?v=nVx4gLdaU9A)
 
 ---
 
