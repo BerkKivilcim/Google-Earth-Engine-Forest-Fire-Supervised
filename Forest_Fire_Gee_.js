@@ -148,7 +148,7 @@ var classifier=ee.Classifier.cart().train({
 var classified=clipdata3.select(bands).classify(classifier);
 Map.addLayer(classified,{min:1, max:3, palette:['0000FF','00FF00','FF0000']},'classification');
 // subtracting only burned class from classified image
-var subset = classified.eq(03).selfMask();
+var subset = classified.eq(3).selfMask();
 Map.addLayer(subset,{},'Only Burned Areas')
 
 var c=subset.reduceRegion({
