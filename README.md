@@ -5,9 +5,10 @@
     1.1 What is Google Earth Engine and How it Works
     1.2 Audience
     1.3 License
-    1.4 Tools and Functions
-    1.5 Register to Google Earth Engine
-    1.6 Google Earth Engine Javascript Browser Layout
+    1.4 Comparasion Between Supervised and Unsupervised Methods
+    1.5 Tools and Functions
+    1.6 Register to Google Earth Engine
+    1.7 Google Earth Engine Javascript Browser Layout
     
 ##### 2. How to use Code
     2.1 Code's User Workflow
@@ -54,7 +55,20 @@
 
 ---
 
-### 1.4 Tools and Functions:
+### 1.4 Comparasion Between Supervised and Unsupervised Methods:
+
+**Supervised Method:**
+* Mostly the results will be better. (Depends on training sample quality)
+* The code works faster than unsupervised method. (Still slower than unsupervised in overall time because we need to select training sample)
+
+**Unsuperivised Method:**
+* The results depends on algorithm not the human so results will be more standardized.
+* No need to select training sample so it need less human power and faster than supervised method.
+* Easy to use but the code works slower than supervised method.
+
+---
+
+### 1.5 Tools and Functions:
 
 * The code can be able to compute how many forest field burned (in hectare unit as default), Normalized Burn Ratio (NBR) and Normalized Difference Vegetation Index (NDVI) Charts, Burn Severity Rate, time interval of the burning and shows before-after satellite image results by using Sentinel-2 Satellite. Those datas can be downloadable.
 
@@ -62,7 +76,7 @@
 
 ---
 
-### 1.5 Register to Google Earth Engine:
+### 1.6 Register to Google Earth Engine:
 
 * When you try to access https://code.earthengine.google.com/ you will face up with register screen. If you registered once you will never face it again.
 
@@ -72,7 +86,7 @@
 
 ---
 
-### 1.6 Google Earth Engine Javascript Browser Layout:
+### 1.7 Google Earth Engine Javascript Browser Layout:
 
 ![alt text](https://github.com/axecasper/Google-Earth-Engine-Forest-Fire/blob/master/images/layoutb%C3%BCy%C3%BCk.jpg "Logo Title Text 2")
 
